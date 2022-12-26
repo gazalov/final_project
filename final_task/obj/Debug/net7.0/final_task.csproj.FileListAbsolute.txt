@@ -1,0 +1,15 @@
+C:\My_files\git\lesson_1038\final_project\final_task\bin\Debug\net7.0\final_task.exe
+C:\My_files\git\lesson_1038\final_project\final_task\bin\Debug\net7.0\final_task.deps.json
+C:\My_files\git\lesson_1038\final_project\final_task\bin\Debug\net7.0\final_task.runtimeconfig.json
+C:\My_files\git\lesson_1038\final_project\final_task\bin\Debug\net7.0\final_task.dll
+C:\My_files\git\lesson_1038\final_project\final_task\bin\Debug\net7.0\final_task.pdb
+C:\My_files\git\lesson_1038\final_project\final_task\obj\Debug\net7.0\final_task.csproj.AssemblyReference.cache
+C:\My_files\git\lesson_1038\final_project\final_task\obj\Debug\net7.0\final_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_files\git\lesson_1038\final_project\final_task\obj\Debug\net7.0\final_task.AssemblyInfoInputs.cache
+C:\My_files\git\lesson_1038\final_project\final_task\obj\Debug\net7.0\final_task.AssemblyInfo.cs
+C:\My_files\git\lesson_1038\final_project\final_task\obj\Debug\net7.0\final_task.csproj.CoreCompileInputs.cache
+C:\My_files\git\lesson_1038\final_project\final_task\obj\Debug\net7.0\final_task.dll
+C:\My_files\git\lesson_1038\final_project\final_task\obj\Debug\net7.0\refint\final_task.dll
+C:\My_files\git\lesson_1038\final_project\final_task\obj\Debug\net7.0\final_task.pdb
+C:\My_files\git\lesson_1038\final_project\final_task\obj\Debug\net7.0\final_task.genruntimeconfig.cache
+C:\My_files\git\lesson_1038\final_project\final_task\obj\Debug\net7.0\ref\final_task.dll
